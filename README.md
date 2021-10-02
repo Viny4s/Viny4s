@@ -1,9 +1,12 @@
-### Hi there 👋
 
-<!--
-**Viny4s/Viny4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hi! There,
+###### 25_12_17_28_4_22 Here, just learning.
+
+
+<!-- **Viny4s/Viny4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
